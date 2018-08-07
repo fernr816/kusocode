@@ -11,6 +11,7 @@ void display_list(int list[], int len){
     cout << "\n";
 }
 
+//結合パート
 void merge(int list[], int left, int middle, int right, int len){
     int i = left;
     int j = middle+1;
