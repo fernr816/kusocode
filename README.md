@@ -1,4 +1,4 @@
-# others
+# kusocode
 little codes
 
 ## sort1.cpp
@@ -12,3 +12,6 @@ merge sort
 
 ## sort4.cpp
 heap sort
+
+## IFS_Fern.ipynb
+Barnsley fern
