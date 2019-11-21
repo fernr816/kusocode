@@ -15,3 +15,6 @@ heap sort
 
 ## IFS_Fern.ipynb
 Barnsley fern
+
+## Send_Email.ipynb
+Send a little different E-Mail to many person
