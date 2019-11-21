@@ -1,4 +1,4 @@
-# kusocode
+# littlecode
 little codes
 
 ## sort1.cpp
