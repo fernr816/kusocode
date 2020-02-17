@@ -18,3 +18,5 @@ Barnsley fern
 
 ## Send_Email.ipynb
 Send a little different E-Mail to many person
+
+## 2_sample_test_for_equality_of_proportions.py
